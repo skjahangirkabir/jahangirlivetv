@@ -138,3 +138,135 @@ http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png",SONY TV
 http://103.55.144.46/hls/sonyen.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",STAR PLUS
+http://103.55.144.46/hls/starplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png",COLORS HINDI
+http://103.55.144.46/hls/colore-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",ZEE TV
+http://103.55.144.46/hls/zeetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png",UTV ACTION
+http://103.55.144.46/hls/utvaction.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg",UTV MOVIES
+http://103.55.144.46/hls/utv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png",ZEE CINEMA HD
+http://103.55.144.46/hls/zeecinemahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",STAR GOLD HD
+http://103.55.144.46/hls/stargold.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png",SONY MAX HD
+http://103.55.144.46/hls/sony-maxhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png",SONY MAX SD
+http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png",SONY MAX 2
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png",AND PICTURES
+http://103.55.144.46/hls/andpictures.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MBC%202.png",MBC 2
+http://103.55.144.46/hls/dhin.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",STAR SPORTS 1
+http://103.55.144.46/hls/stersports1hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg",STAR SPORTS 2
+http://103.55.144.46/hls/starsports2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png",STAR SPORTS 3
+http://103.55.144.46/hls/starsports3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg",STAR SPORTS SELECT 1
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg",STAR SPORTS SELECT 2
+http://103.55.144.46/hls/select2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg",SONY TEN 1
+http://103.55.144.46/hls/sonyten1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png",SONY TEN 2
+http://103.55.144.46/hls/sonyten2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png",TEN SPORTS PK
+http://103.55.144.46/hls/ten.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png",PTV SPORTS
+http://103.55.144.46/hls/ptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",DISCOVERY HD
+http://103.55.144.46/hls/discovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png",DISCOVERY SCIENCE 
+http://103.55.144.46/hls/dis-science.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png",NET GEO HD
+http://103.55.144.46/hls/ngohd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png",NAT GEO WILD
+http://103.55.144.46/hls/wild.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",TRAVEL XP HD BANGLA
+http://103.55.144.46/hls/travelxp.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg",SONY BBC EARTH
+http://103.55.144.46/hls/bbcearth.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png",ANIMAL PLANET
+http://103.55.144.46/hls/animalplanent.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png",DISCOVERY KIDS
+http://103.55.144.46/hls/dis-kid.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png",NICK
+http://103.55.144.46/hls/nick.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png",CARTOON NETWORK
+http://103.55.144.46/hls/cn.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg",POGO
+http://103.55.144.46/hls/pogo.m3u8
+
+#EXTINF:-1 gtvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",STAR MOVIES
+http://103.55.144.46/hls/starmovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png",SONY PIX
+http://103.55.144.46/hls/sonypixhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png",MOVIES NOW
+http://103.55.144.46/hls/movies-now.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png",MN+
+http://103.55.144.46/hls/mn+.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png",MNX HD
+http://103.55.144.46/hls/mnx-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png",STAR WORLD
+http://103.55.144.46/hls/star-worldhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png",TLC
+http://103.55.144.46/hls/tlc.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png",9XM
+http://103.55.144.46/hls/9xm.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png",ZOOM
+http://103.55.144.46/hls/zoom.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bindass.png",BINDASS
+http://103.55.144.46/hls/bindass.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png",ALJAZEERA
+http://103.55.144.46/hls/aljazeera.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png",BBC WORLD
+http://103.55.144.46/hls/bbcworld.m3u8
