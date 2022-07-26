@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",36.Peace Tv Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png",36.Peace Tv Bangla
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
-#EXTINF:-1 tvg-logo="none",Saudi Sunnah - Modina
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/813/143/png-clipart-al-masjid-an-nabawi-kaaba-great-mosque-of-mecca-dome-of-the-rock-islam-television-mosque.png",Saudi Sunnah - Modina
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #EXTINF:-1 tvg-logo="none",Saudi Sunnah - Mokkah
