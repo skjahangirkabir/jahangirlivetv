@@ -117,12 +117,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JICx.jpg",THE CHANNEL TV
 https://cdn.appv.jagobd.com:444/live-orgin/thechanneltv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58KJbk.png",DESHI TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/5Xs60o.png",JA TV
-https://live.tvdhaka.com:30443/globalbangla/jatv/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="none", MAGIC BANGLA TV
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 
